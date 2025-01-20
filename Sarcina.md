@@ -66,7 +66,7 @@
 ### 7.5 Creați o funcție care returnează un *Promise* ce poate fi respinsă sau rezolvată în funcție de valoarea unui parametru.
 ### 7.6 Scrieți o funcție asincronă care apelează fucția de la punctul **7.4** și afișează rezultatul.
 ### 7.7 Creați trei funcții care returnează promisiuni și apelează-le în lanț. 
-### 7.8 Utilizați fetch pentru a prelua date de la o API publică (de exemplu, **JSONPlaceholder**) și afișați rezultatele.
+### 7.8 Utilizați fetch pentru a prelua date de la o API publică (de exemplu, **JSONPlaceholder** https://jsonplaceholder.typicode.com/guide/) și afișați rezultatele.
 ### 7.9 Folosiți *Promise.all* și *Promise.allSettled* pentru a aștepta rezolvarea mai multor promisiuni.
 ## 8. Module ES
 ### 8.1 În fișierul **mathUtils.js** exportați două funcții simple pentru operații matematice: **adunare** și **scădere**.
